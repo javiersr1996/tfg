@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+  <question type="category">
+    <category>
+      <text>Moodle QUIZ XML export</text>
+    </category>
+  </question>
+  <question type="multichoice">
+    <name>
+      <text>Selecciona la respuesta correcta</text>
+    </name>
+    <questiontext>
+      <text>Selecciona las opciones correctas (una o varias)</text>
+    </questiontext>
+    <video>
+      <source>../assets/videos/Jugada_3.mp4</source>
+    </video>  
+    <shuffleanswers>0</shuffleanswers>
+    <single>false</single>
+    <answer fraction="100">
+      <text>Falta clara</text>
+    </answer>
+    <answer fraction="0">
+      <text>No es falta</text>
+    </answer>
+    <answer fraction="0">
+      <text>Ni idea HULIO</text>
+    </answer>
+     <answer fraction="100">
+      <text>Esa Isa la pitaba</text>
+    </answer>
+  </question>
+</quiz>
